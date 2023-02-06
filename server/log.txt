@@ -1,0 +1,21 @@
+07-11-2016 13:27:07.8759	[INFO] Creating database
+07-11-2016 13:27:07.9594	[INFO] Creating tables...
+07-11-2016 13:27:08.7725	[INFO] Starting all listeners...
+07-11-2016 13:27:08.7745	[INFO] Listener 192.168.10.8:1604 started
+07-11-2016 13:27:37.5453	[INFO] New client tries to connect...
+07-11-2016 13:27:37.6158	[INFO] Intention: New Administration
+07-11-2016 13:27:37.6363	[INFO] Administration accepted. Welcome (AI-0)
+07-11-2016 13:29:22.3378	[INFO] New client tries to connect...
+07-11-2016 13:29:22.3938	[INFO] Intention: Client
+07-11-2016 13:29:23.7885	[INFO] Register client...
+07-11-2016 13:29:23.8400	[INFO] Welcome Parrot Security on this server (CI-1)
+07-11-2016 13:29:28.5003	[INFO] Administration AI-0 initializes session with client CI-1
+07-11-2016 13:30:42.7985	[INFO] Administration AI-0 closed session with client CI-1
+07-11-2016 13:30:48.5893	[INFO] Send dynamic command (ID: 1, conditions: 0, type: ImmediatelyExecutionEvent)
+07-11-2016 13:30:48.6438	[INFO] Dynamic command was sent (total: 1, succeed: 1, failed: 0)
+07-11-2016 13:30:49.6019	[INFO] Client CI-1 disconnected
+07-11-2016 13:30:55.8662	[INFO] Administration AI-0 disconnected
+07-11-2016 13:31:33.0032	[INFO] Stopping all listeners...
+07-11-2016 13:31:33.0042	[INFO] Listener 192.168.10.8:1604 stopped
+07-11-2016 13:31:33.0047	[INFO] All Listeners stopped
+07-11-2016 13:31:33.0082	[INFO] All clients and administrations disconnected

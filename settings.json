@@ -1,0 +1,43 @@
+{
+  "LastServerIp": "192.168.10.8",
+  "LastServerPort": 1604,
+  "Language": {
+    "Uri": "/Resources/Languages/OrcusAdministration.en-us.xaml",
+    "Culture": "en"
+  },
+  "Theme": 1,
+  "DefaultListGroupBy": 0,
+  "DefaultListColumnData": {
+    "Order": [
+      "online",
+      "username",
+      "ipaddress",
+      "id",
+      "ostype",
+      "version",
+      "activewindow",
+      "administrator",
+      "service",
+      "country",
+      "language"
+    ],
+    "Visible": [
+      "online",
+      "username",
+      "ipaddress",
+      "id",
+      "ostype",
+      "country"
+    ]
+  },
+  "BuildConfigurations": [],
+  "ExperimentalEnableIcons": false,
+  "UseProxyToConnectToServer": false,
+  "ProxyType": 2,
+  "ProxyIpAddress": null,
+  "ProxyPort": 1080,
+  "ProxyAuthenticate": false,
+  "ProxyUsername": null,
+  "ProxyPassword": null,
+  "IsConsoleAtTop": false
+}

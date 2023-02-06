@@ -1,0 +1,19 @@
+{
+  "IpAddresses": [
+    {
+      "Ip": "192.168.10.8",
+      "Port": 1604
+    }
+  ],
+  "Password": "12345",
+  "IsDnsUpdaterEnabled": false,
+  "DnsUpdaterSettings": null,
+  "DnsUpdaterType": null,
+  "ConnectionTimeout": 10000,
+  "IsAutomaticServerUpdateEnabled": true,
+  "SslCertificatePath": "certificate.pfx",
+  "SslCertificatePassword": "ChsXMrlc9BxxjoIAJJyuqGcXgx7hGw0+DZFWpadhVpd734dO19LP5Yrhcgbs0A8ADPD9E+XQigkC/Z+e49sEX9a1muLqM0aMaLdBjNE2d5Wlk7x/JGJsXlIiiHqrWuRT7jHH1p2W2yiFcFcAd/+lQA==",
+  "IsGeoIpLocationEnabled": false,
+  "Ip2LocationEmailAddress": null,
+  "Ip2LocationPassword": null
+}
