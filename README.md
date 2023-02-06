@@ -7,3 +7,6 @@ Original author was arrested
   * Download this repo as a zip
   * Run the orcus.administration.exe file
   * The rest is common sense
+
+# Disclaimer
+I think this is illegal, so yk be careful
