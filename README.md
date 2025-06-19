@@ -1,12 +1,12 @@
-# Orcus Rat
-This was not made by me
-
-Original author was arrested
+# Orcus Rat (Precompiled)
+This program was originally created by Orcus Technologies (Copyright 2016)
+Was cracked by WarDow
 
 # How to use
-  * Download this repo as a zip
+  * Ensure anti-virus is disabled or add the files as exeptions to your anti-virus else it will not be able to run
+  * Download this repo as a zip and extract
   * Run the orcus.administration.exe file
-  * The rest is common sense
+  * Create a server and configure
+  * Log into server once configured
 
-# Disclaimer
-I think this is illegal, so yk be careful
+# DO NOT USE FOR MALICIOUS PURPOSES
