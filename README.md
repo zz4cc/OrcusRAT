@@ -8,5 +8,6 @@ Was cracked by WarDow
   * Run the orcus.administration.exe file
   * Create a server and configure
   * Log into server once configured
+  * In order to actually connect to computers on different networks you will need to forward the port that you have chosen for the sever, on your router
 
 # DO NOT USE FOR MALICIOUS PURPOSES
